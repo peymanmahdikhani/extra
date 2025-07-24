@@ -85,7 +85,7 @@
         <mxCell id="5XzYCY_mzxXCf8cTdGR6-22" value="CvC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="655" y="1338" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5XzYCY_mzxXCf8cTdGR6-23" value="Squidguard" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5XzYCY_mzxXCf8cTdGR6-23" value="Squidguard&lt;div&gt;(RTBF)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5XzYCY_mzxXCf8cTdGR6-24" value="Segway" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -149,6 +149,9 @@
         </mxCell>
         <mxCell id="5XzYCY_mzxXCf8cTdGR6-50" value="Hightouch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="655" y="1408" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhxWcokY2NQShg48sDPU-1" value="Stardust-Airflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="788" y="1408" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
